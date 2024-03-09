@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirak010&label=Profile%20views&color=0e75b6&style=flat" alt="hirak010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirak010" alt="hirak010" /></a> </p>
-
 - 🔭 I’m currently working on [Self Driving Car Simulation](https://github.com/Hirak010/Self-Driving-Car-Simulation)
 
 - 🌱 I’m currently learning **LLMs, Docker, Kubernetes, OpenCV**
